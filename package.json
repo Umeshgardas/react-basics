@@ -1,0 +1,15 @@
+{
+  "name": "react-scrach",
+  "version": "1.0.0",
+  "description": "React basics",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Umeshgardas/react-basics.git)"
+  },
+  "author": "",
+  "license": "ISC"
+}
